@@ -5,7 +5,7 @@
 
 WordMatcher Module reads a file containing sentences and finds matches against a predefined set of words. 
 The matching process is case-insensitive and considers only English words.
-other characters will be ignored and will not be added to the set()
+other characters will be ignored and will not be added to the set().
 other characters, punctuation, or except this [A-Z] [a-z] will be ignored 
 
 ASSUMPTION:
